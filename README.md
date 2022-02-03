@@ -1,6 +1,6 @@
 # Hi! <img src="https://thumbs.gfycat.com/MeatyEnchantingAdder.webp" width="30px">
 
-My name is Guilherme Marques. I'm from <img src="https://image.flaticon.com/icons/svg/197/197463.svg" width="13"/> <strong>Viseu, Portugal</strong> and right now i'm studying computer engineering. <br>
+My name is Guilherme Marques. I'm from <img src="https://findicons.com/files/icons/1015/world_cup_flags/128/portugal.png" width="13"/> <strong>Viseu, Portugal</strong> and right now i'm studying computer engineering. <br>
 
 ![](https://komarev.com/ghpvc/?username=devguimarques&color=informational)
 
